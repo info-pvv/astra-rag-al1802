@@ -1,8 +1,8 @@
 {
-  "AL-1802_uchebnyj_plan.pdf": {"title": "Учебный план AL-1802 (скан)"},
-  "Opisanie_primeneniya.pdf": {"title": "Описание применения ОС Astra Linux SE 1.8"},
-  "Rukovodstvo_administratora_ch1.pdf": {"title": "Руководство администратора, Часть 1"},
-  "Rukovodstvo_administratora_ch2_ustanovka_i_obnovlenie.pdf": {"title": "Руководство администратора, Часть 2 (установка и обновление)"},
-  "Rukovodstvo_KSZ_ch1_KSZ_PARSEC.pdf": {"title": "Руководство по КСЗ, Часть 1 (PARSEC)"},
-  "Rukovodstvo_polzovatelya.pdf": {"title": "Руководство пользователя"}
+  "AL-1802_uchebnyj_plan.pdf": {"title": "Учебный план AL-1802 (скан)", "aliases": ["Учебный план AL-1802"]},
+  "Opisanie_primeneniya.pdf": {"title": "Описание применения ОС Astra Linux SE 1.8", "aliases": ["Описание применения SE 1.8"]},
+  "Rukovodstvo_administratora_ch1.pdf": {"title": "Руководство администратора, Часть 1", "aliases": ["Руководство администратора ч.1"]},
+  "Rukovodstvo_administratora_ch2_ustanovka_i_obnovlenie.pdf": {"title": "Руководство администратора, Часть 2 (установка и обновление)", "aliases": ["Руководство администратора ч.2 (установка и обновление)"]},
+  "Rukovodstvo_KSZ_ch1_KSZ_PARSEC.pdf": {"title": "Руководство по КСЗ, Часть 1 (PARSEC)", "aliases": ["Руководство по КСЗ ч.1 (PARSEC)"]},
+  "Rukovodstvo_polzovatelya.pdf": {"title": "Руководство пользователя", "aliases": ["Руководство пользователя"]}
 }
